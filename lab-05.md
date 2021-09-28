@@ -9,12 +9,8 @@
 
 ## Linked Lists
 
-Linked Lists
-
-I feel very comfortable with linked list as I worked with them in JavaScript as well as completed the linked list section within the cracking the coding interview book.
+- I feel very comfortable with linked list as I worked with them in JavaScript as well as completed the linked list section within the cracking the coding interview book.
 
 ## Bitmap Lab
 
-Bitmap Lab
-
-I need to finish the lab and put Eds advice and making my methods have some sort of output to be able to test. It does make sense that a return values on each method makes it very help for others to run and test. Will be implementing this concept into my code.
+- I need to finish the lab and put Eds advice and making my methods have some sort of output to be able to test. It does make sense that a return values on each method makes it very help for others to run and test. Will be implementing this concept into my code.
