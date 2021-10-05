@@ -9,7 +9,7 @@
 - Testing was fairly simple although these are very basic tests. 
 - I was getting errors from my tests, I believe it is because I need to create a BeforeEach statement of some sort to reset my `Library systemUnderTest = new Library()` before each test.
 
-## Array of Arrays 
+## Array of Arrays
 
 - were kind of annoying, but I think I understand them. 
 - Kind of curious of how to have an array of ArrayLists
