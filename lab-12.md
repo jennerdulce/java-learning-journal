@@ -6,12 +6,24 @@
 
 - application.properties
   - contains your postgres
-  - `spring.datasource.url=jdbc:postgresql://localhost:5432/songr`
+  - `spring.datasource.url=jdbc:postgresql://localhost:5432/songr` // songr has to match the name of the database you create on pgAdmin
   - `spring.datasource.username=postgres`
   - `spring.datasource.password=password`
   - `spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect`
   - `spring.jpa.show-sql=false`
   - `spring.jpa.hibernate.ddl-auto=update`
+
+## Hibernate
+
+- ORM / Object relational impedance mismatch
+- Takes classes and puts it into your database
+- Handles SQL without have to know SQL
+- annotations
+    - @Entity
+    - @Id
+    - @GeneratedValue
+    - Lob
+    - Type
 
 ## Setting up Database
 
@@ -45,6 +57,7 @@ public class SongrController {
 - @Autowired
 - Bring in repository
 - `albumRepository.findAll()` goes in to psql and retrieves all from the db
+- Redirect retains CRUD method through a redirect
 
 ## In Album
 
