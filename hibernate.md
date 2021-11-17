@@ -1,0 +1,3 @@
+- Object Relational Mapping tool
+- Hibernate works with anydatabase we used psql
+- That creates the tables mapping them to relational database

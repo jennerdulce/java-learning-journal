@@ -26,7 +26,7 @@ public class App {
 
     // Functional; Using functions
     // Not relying on internal state of program
-    // Stateless, Idempotent
+    // Stateless, Idempotent (input you put in will spit out the same answer everytime)
     public int numPassed(int numPassed){
         numPassed++;
         return numPassed;

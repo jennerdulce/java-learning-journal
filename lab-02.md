@@ -19,7 +19,7 @@
 
 - Apparently you cannot declare an array and overwrite it at a later time within a function.
 
-`int[] lowestArr;` 
+- `int[] lowestArr;`
 - I set this at the beginning of my method and tried to assign it within a for loop and 
 it was saying "It may not have been declared yet" or something like that.. 
 - What fixed it was actually setting the array variable to a bs array something like 

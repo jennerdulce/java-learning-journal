@@ -1,0 +1,4 @@
+- Grouping of like or similar items
+- Organization packages also do namespacing
+- Allows you to put things together and to chunk application
+- Namespacing - Unique tags. Defined by packages.

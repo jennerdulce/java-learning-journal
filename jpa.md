@@ -1,0 +1,8 @@
+- Level of abstraction
+- Lowerlevels
+- bottom database, we didnt deal with database directly
+  - skips mapping to sql
+- above database, hibernate deal with objects magically the right thing happens
+- JPA abstraction layer "I dont want to tie java directly to hibernate"
+  - Way to talk to ORM
+  - Do not have to worry about what hibernate is doing

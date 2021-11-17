@@ -19,7 +19,7 @@ public Class1 {
 
   // If you want to use the same variable name of the Original class
   public Class1(int _myint){
-
+    
   }
 
   // Default Constructor
